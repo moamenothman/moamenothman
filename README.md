@@ -1,112 +1,135 @@
-Mo'men Othman 
+# Mo'men Othman
+### Junior DevOps Engineer | Cloud Infrastructure | Automation
 
-### Junior DevOps Engineer | Cloud & Infrastructure
+Communication Engineering graduate with hands-on DevOps training through the National Telecommunication Institute (NTI) and iVolve Technology.
 
-I'm a Communication Engineering graduate and NTI Cloud DevOps Accelerator graduate, focused on building, automating, and maintaining reliable infrastructure.
+Focused on building and automating infrastructure, streamlining application delivery, and managing containerized environments. Experienced in developing CI/CD workflows, implementing GitOps practices, provisioning AWS infrastructure using Terraform, and deploying monitoring solutions for Kubernetes environments.
 
-I enjoy understanding how systems work, automating repetitive tasks, troubleshooting technical issues, and improving application delivery workflows.
+I approach technical challenges with a system-oriented mindset, combining Linux administration, networking fundamentals, automation, and troubleshooting to understand problems and build reliable solutions.
 
-My hands-on experience includes CI/CD pipelines, containerization, Kubernetes deployments, GitOps, Infrastructure as Code, and monitoring.
+Currently focused on deepening my expertise in Linux, Kubernetes, Cloud Infrastructure, and DevOps engineering practices.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Expertise
 
-**Operating Systems & Scripting**
-- Linux Administration
+**Operating Systems & Networking**
+- Linux Administration (Red Hat / Ubuntu)
 - Bash Scripting
-- Networking Fundamentals
+- TCP/IP, DNS, HTTP/HTTPS, SSH
+- System Troubleshooting & Log Analysis
 
-**CI/CD & Version Control**
+**CI/CD & Automation**
 - Jenkins
+- Jenkins Shared Libraries
 - GitHub Actions
 - Git & GitHub
+- CI/CD Pipeline Design
 
-**Containers & Orchestration**
-- Docker
-- Docker Compose
+**Containerization & Orchestration**
+- Docker & Docker Compose
 - Kubernetes
 - Helm
+- Red Hat OpenShift
 
-**GitOps & Configuration Management**
-- Argo CD
-- Ansible
-
-**Cloud & Infrastructure as Code**
+**Infrastructure & Configuration Management**
 - AWS
 - Terraform
+- Ansible
+- Infrastructure as Code (IaC)
 
-**Monitoring & Observability**
+**GitOps & Observability**
+- Argo CD
 - Prometheus
 - Grafana
+- Kubernetes Monitoring
+
+**Programming & Scripting**
+- Bash
+- Python Fundamentals
+- YAML
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 1. Spring PetClinic – End-to-End DevOps Implementation
+### 01. Spring PetClinic – DevOps & Cloud-Native Implementation
 
-[View Repository](https://github.com/moamenothman/spring-petclinic-DevOps)
+[Repository](https://github.com/moamenothman/spring-petclinic-DevOps)
 
-An end-to-end DevOps implementation focused on automating application delivery and managing cloud-native infrastructure.
+An end-to-end DevOps project focused on automating application delivery and managing containerized workloads through modern DevOps practices.
 
-**Key Implementations:**
-- CI/CD pipelines using Jenkins.
-- Application containerization using Docker.
-- Kubernetes application deployment and management.
-- GitOps continuous delivery using Argo CD.
-- Kubernetes package management using Helm.
-- Monitoring and observability using Prometheus and Grafana.
-- Infrastructure automation using Terraform and Ansible.
+**Key Implementations**
+- Designed CI/CD workflows using Jenkins to automate application build and delivery.
+- Used Jenkins Shared Libraries to organize and reuse pipeline logic.
+- Containerized the application using Docker.
+- Deployed and managed application workloads on Kubernetes.
+- Implemented GitOps-based continuous delivery using Argo CD.
+- Managed Kubernetes application configurations and deployments using Helm.
+- Integrated Prometheus and Grafana for infrastructure and application observability.
+- Worked with Terraform and Ansible for infrastructure and configuration automation.
 
-**Technologies:** Jenkins | Docker | Kubernetes | Helm | Argo CD | Terraform | Ansible | Prometheus | Grafana
+**Tech Stack:** Jenkins, Docker, Kubernetes, Helm, Argo CD, Terraform, Ansible, Prometheus, Grafana.
 
-### 2. AWS Infrastructure with Terraform
+### 02. AWS Infrastructure Provisioning with Terraform
 
-[View Repository](https://github.com/moamenothman/terraform-project)
+[Repository](https://github.com/moamenothman/terraform-project)
 
-Infrastructure as Code project focused on provisioning and organizing AWS infrastructure using reusable Terraform configurations.
+An Infrastructure as Code project focused on designing and provisioning AWS networking and compute resources using Terraform.
 
-**Key Implementations:**
-- AWS VPC and network infrastructure.
-- Public and private subnets.
-- Internet and NAT gateways.
-- EC2 instances and Application Load Balancer.
-- Terraform modules and infrastructure organization.
+**Key Implementations**
+- Provisioned AWS VPC networking infrastructure.
+- Designed public and private subnet architecture.
+- Configured Internet Gateway and NAT Gateway.
+- Provisioned EC2 instances.
+- Configured Application Load Balancer.
+- Organized infrastructure using reusable Terraform modules.
 
-**Technologies:** AWS | Terraform | HCL | Networking
+**Tech Stack:** AWS, Terraform, HCL, VPC, EC2, ALB, Networking.
 
-### 3. DevOps Hands-on Tasks – iVolve
+### 03. DevOps Practical Training – iVolve Technology
 
-[View Repository](https://github.com/moamenothman/Ivolve-tasks)
+[Repository](https://github.com/moamenothman/Ivolve-tasks)
 
-A collection of practical DevOps tasks and exercises completed during technical training.
+A collection of hands-on technical tasks and practical exercises covering essential DevOps tools and workflows.
 
-**Focus Areas:**
-- Linux and command-line operations.
-- Git and version control.
-- Docker and containerization.
-- Kubernetes fundamentals.
-- CI/CD and automation.
-- DevOps tools and practical exercises.
-
-**Technologies:** Linux | Git | Docker | Kubernetes | DevOps Tools
-
----
-
-## 🎓 Education & Training
-
-- **B.Sc. Electronics & Communications Engineering** – Helwan University.
-- **NTI Cloud DevOps Accelerator** – Hire Ready Scholarship.
-- **iVolve Technology** – DevOps Technical Training.
+**Areas of Practice**
+- Linux system administration.
+- Git version control and collaboration.
+- Docker containerization.
+- Kubernetes deployment and management.
+- CI/CD automation.
+- Infrastructure and DevOps tooling.
 
 ---
 
-## 📫 Connect With Me
+## Education & Professional Training
 
-- **LinkedIn:** [Mo'men Othman](https://linkedin.com/in/mo-men-othman-b36823386)
-- **GitHub:** [moamenothman](https://github.com/moamenothman)
+**Bachelor of Science – Electronics & Communications Engineering**  
+Helwan University | Faculty of Engineering
+
+**Cloud DevOps Accelerator – Hire Ready Scholarship**  
+National Telecommunication Institute (NTI)
+
+**DevOps Technical Training**  
+iVolve Technology
 
 ---
 
-*Always learning, building, and improving through hands-on practice.*
+## Professional Interests
+
+- Linux System Administration & Troubleshooting
+- Cloud Infrastructure & Architecture
+- Kubernetes & Container Orchestration
+- CI/CD Engineering & Automation
+- Infrastructure as Code
+- Monitoring & Observability
+
+---
+
+## Let's Connect
+
+- [LinkedIn](https://linkedin.com/in/mo-men-othman-b36823386)
+- [GitHub](https://github.com/moamenothman)
+
+*Building practical solutions, automating infrastructure, and continuously improving engineering skills.*
